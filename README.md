@@ -1,18 +1,34 @@
 # 💫 About Me:
- I’m currently working on<br>React-based front-end development projects.<br>Enhancing interactive UI/UX animations using GSAP and Framer Motion.<br>Building modern and customizable NFC/QR-enabled web applications.<br>🎉 I’m looking to collaborate on<br>Innovative web development projects utilizing React, Firebase, or similar technologies.<br>Interactive and dynamic web applications with advanced animations.<br>Projects requiring responsive and user-friendly UI design.<br>🤝 I’m looking for help with<br>Scaling my projects for better performance and optimization.<br>Mastering advanced Unity for game development.<br>Exploring new frameworks and libraries for front-end development.<br>🌱 I’m currently learning<br>Unity for creating interactive experiences.<br>Advanced React patterns and best practices.<br>Firebase for scalable and secure backend solutions.<br>💬 Ask me about<br>Front-end development with React, GSAP, and Framer Motion.<br>Creating modern and responsive UI designs.<br>Implementing interactive animations in web applications.
-
+I'm currently working on<br>
+Building and maintaining a production RIS/PACS system for a multispecialty hospital — DICOM, HL7, PACS integration.<br>
+Frappe/ERPNext development for healthcare workflows.<br>
+GuruPACS — my independent PACS product, scalable to 5M+ studies.<br>
+🎉 I'm looking to collaborate on<br>
+Healthcare IT projects involving DICOM, HL7, PACS, or hospital information systems.<br>
+Frappe/ERPNext-based backend and integration work.<br>
+Python backend systems and API integrations.<br>
+🤝 I'm looking for help with<br>
+Scaling DICOM/PACS infrastructure for higher study volumes.<br>
+Advanced Frappe/ERPNext architecture patterns.<br>
+Deepening my DSA fundamentals (Python & Java).<br>
+🌱 I'm currently learning<br>
+Advanced DSA patterns (arrays, trees, graphs, DP).<br>
+Deeper HL7/DICOM interoperability concepts.<br>
+AWS for scalable healthcare infrastructure.<br>
+💬 Ask me about<br>
+DICOM, HL7, PACS, and healthcare imaging systems.<br>
+Frappe/ERPNext development and customization.<br>
+Building and deploying production Python/Vue systems.
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MariaDB](https://img.shields.io/badge/mariadb-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=8890aman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=8890aman&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=8890aman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=8890aman&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
