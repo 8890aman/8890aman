@@ -2,7 +2,7 @@
 I'm currently working on<br>
 Building and maintaining a production RIS/PACS system for a multispecialty hospital — DICOM, HL7, PACS integration, 5,000+ cases archived.<br>
 Frappe/ERPNext development for healthcare workflows and hospital information systems.<br>
-GuruPACS — my independent PACS product, built to scale to 5 million studies, currently running 7,000+ real studies in production.<br>
+GuruPACS — my independent PACS product, built to scale to  millions<br>
 Vue 3 and React-based frontend work for imaging and RIS interfaces.<br>
 🎉 I'm looking to collaborate on<br>
 Healthcare IT projects involving DICOM, HL7, PACS, or hospital information systems.<br>
